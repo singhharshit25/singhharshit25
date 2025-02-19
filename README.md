@@ -7,7 +7,7 @@
 
 - 🌱 AWS Certified Cloud Practitioner 
 
-- 💬 Ask me about **java,SQL**
+- 💬 Ask me about **Java, JavaScript, Node.js, SQL**
 
 - 📫 How to reach me **h.harshit.singh01@gmail.com**
 
